@@ -255,5 +255,5 @@ def funC21(data, k):
 
 
 if __name__ == "__main__":
-    data =  [1,2,3,4,5,6,10,11]
-    funC21(data, 11)
+    data =  'aeeqe'
+    print(data[0])
